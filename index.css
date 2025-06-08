@@ -56,12 +56,6 @@ p{
     max-width: 1000px;
     margin: 10px auto;
 }
-.txtalbum1{
-    float: left;
-}
-.txtalbum2{
-    float: right;
-}
 /*Изображение*/
 img{
     width: 400px;
